@@ -1,38 +1,34 @@
 {
     "metadata": {
-        "label": "coinw",
+        "label": "bifinance",
         "category": "CEX",
         "subcategory": "",
-        "website": "https://www.coinw.com",
+        "website": "https://www.bifinance.com",
         "description": "",
-        "organization": "coinw"
+        "organization": "bifinance"
     },
     "addresses": [
         {
-            "address": "EQB8KbFmiGKyRmE8c8hiVbC8V3OLdGXNkQKCo_I3Jfp_8yqZ",
+            "address": "EQAqbbd_MRt9wCLEl7tNocahlOpIzNkVi9t_GSVS5raMfOkm",
             "source": "",
             "comment": "",
             "tags": [],
             "submittedBy": "Lucky0041",
-            "submissionTimestamp": "2025-11-28T10:09:26Z"
+            "submissionTimestamp": "2026-07-01T10:09:26Z"
         },
         {
-            "address": "EQDA8r7_1cpmnqmiG_WQyckAwCD7vxBNxlfiNLt14_OBOoJC",
+            "address": "EQB5TiojE2zei67YawDh1kZZn_D36Zs2c6CR0Rtc6UgHX23A",
             "source": "",
             "comment": "",
-            "tags": [
-                "has-custodial-wallets"
-            ],
+            "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2026-07-01T10:09:26Z"
         },
         {
-            "address": "EQDtMsLB-FGMpGIJcDdD_uA6C40QPH6CMmRsdkYu7WDfGhe8",
+            "address": "EQB0ISRlI3oR1oGLL3_tpaUjteaAyV2cZBuyL6723aPoreta",
             "source": "",
-            "comment": "Gas top‑up address",
-            "tags": [
-                "has-custodial-wallets"
-            ],
+            "comment": "",
+            "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2026-07-01T10:09:26Z"
         }

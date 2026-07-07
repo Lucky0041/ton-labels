@@ -1,23 +1,23 @@
 {
     "metadata": {
-        "label": "wealthsimple",
+        "label": "kyrrex",
         "category": "CEX",
         "subcategory": "",
-        "website": "https://www.wealthsimple.com",
-        "description": "Custodial CEX-like fintech platform",
-        "organization": "wealthsimple"
+        "website": "https://my.kyrrex.com",
+        "description": "",
+        "organization": "kyrrex"
     },
     "addresses": [
         {
-            "address": "EQBIJUS18A2qD6CV0oFZN7hfL6MM9bCmRrO27k6VTBf-bqQq",
+            "address": "EQA8wmFOZUOsC_hGIYBk14O0kfVdt75qxmsi1dhYSvn9WY8v",
             "source": "",
             "comment": "",
             "tags": [],
             "submittedBy": "Lucky0041",
-            "submissionTimestamp": "2026-04-10T10:09:26Z"
+            "submissionTimestamp": "2026-07-01T10:09:26Z"
         },
         {
-            "address": "EQBVUSrSJSTUjh_1vX_Yl0wZYoDHY4GjwCaK1SI24oAj_eSF",
+            "address": "EQCMf3is4_X-TCtz93bpawQhKn89KOuTlgphSDcqZxcS5m41",
             "source": "",
             "comment": "",
             "tags": [],
